@@ -12,9 +12,7 @@ flasgger==0.9.7.1
 Flask==3.1.0
 Flask-SQLAlchemy==3.1.1
 gunicorn==23.0.0
-hidna==3.10
 iniconfig==2.1.0
-itsdangerous==2.2.0
 jsonschema==4.25.1
 jsonschema-specifications==2025.9.1
 markdown-it-py==3.0.0
