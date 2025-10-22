@@ -10,7 +10,9 @@ dotenv==0.9.9
 filelock==3.18.0
 flasgger==0.9.7.1
 Flask==3.1.0
-idna==3.10
+Flask-SQLAlchemy==3.1.1
+gunicorn==23.0.0
+hidna==3.10
 iniconfig==2.1.0
 itsdangerous==2.2.0
 jsonschema==4.25.1
@@ -27,7 +29,6 @@ platformdirs==4.3.7
 pluggy==1.5.0
 psycopg2==2.9.10
 Pygments==2.19.1
-PyJWT==2.10.1
 PyMySQL==1.1.1
 PySocks==1.7.1
 pytest==8.3.5
@@ -40,7 +41,6 @@ requests-toolbelt==1.0.0
 rich==13.9.4
 rpds-py==0.27.1
 setuptools==76.0.0
-six==1.17.0
 SQLAlchemy==2.0.38
 sqlparse==0.5.3
 typing_extensions==4.12.2
